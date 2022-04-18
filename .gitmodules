@@ -1,0 +1,3 @@
+[submodule "wireui"]
+	path = wireui
+	url = git@github.com:laravel-lib/wireui.git
